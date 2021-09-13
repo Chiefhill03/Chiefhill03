@@ -3,6 +3,8 @@
 - 🌱 I’m currently in the Computer Programming and Analysis program at Fanshawe College
 - 🧨 Below is Gunnery Sergeant Basilone's Medal of Honor Citation
 
+---
+
   BASILONE, JOHN
 
   Rank and organization: Sergeant, U.S. Marine Corps. 
