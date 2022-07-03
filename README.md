@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Chiefhill03
-- 👀 I’m interested in programming in Java, HTML and developing conjugate style powerlifting methods
-- 🌱 I’m currently in the Computer Programming and Analysis program at Fanshawe College
-- 🧨 Below is Gunnery Sergeant Basilone's Medal of Honor Citation
+- 👀 I’m interested in programming, powerlifting and playing guitar!
 
 ---
 <!---
